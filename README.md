@@ -1,1 +1,1 @@
-# STCAN
+<img width="432" height="52" alt="image" src="https://github.com/user-attachments/assets/794d8ede-e65a-4e18-8089-c83d30364875" /># code for paper "Multi-Modal Fusion for Robust Micro-Expression Detection: Integrating Temporal Spotting and Emotion Classification"

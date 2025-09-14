@@ -1,1 +1,0 @@
-# LGSNet library
